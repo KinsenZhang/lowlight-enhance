@@ -1,0 +1,9 @@
+id,source,note,exposure,cast_b,gt_mean,low_mean,size
+01,Wallpaper/ThemeC/img28.jpg,雪山湖面，大面积天空平滑渐变,0.2566,1.1,0.5,0.22,960x600
+02,Wallpaper/ThemeC/img29.jpg,湖岸树林，细碎枝叶纹理,0.2486,1.06,0.487,0.22,960x600
+03,Wallpaper/ThemeC/img30.jpg,日落湖面，暖色高光,0.2549,1.11,0.496,0.22,960x600
+04,Wallpaper/ThemeD/img32.jpg,浅色织物质感，柔和阴影,0.2785,1.04,0.509,0.22,960x600
+05,Wallpaper/ThemeD/img33.jpg,织物褶皱，层叠遮挡,0.2748,1.09,0.493,0.22,960x600
+06,Wallpaper/ThemeD/img35.jpg,织物卷曲，低饱和,0.2795,1.05,0.5,0.22,960x600
+07,Screen/img104.jpg,灰蓝几何，长直线边缘,0.2509,1.12,0.51,0.22,960x600
+08,Wallpaper/Spotlight/img14.jpg,蓝色花瓣，高饱和细节,0.2812,1.08,0.472,0.22,960x600

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+results/demo*.png
+results/figs/_*
+results/_*
+docs/figs_jpg/
+docs/*.docx
