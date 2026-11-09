@@ -21,7 +21,7 @@ TEMPLATE = (r"C:\Users\35102\xwechat_files\wxid_rxybcdlidrpt22_a49a\msg\file\202
 OUT = os.path.join(ROOT, "报告-张子腾-20245630.docx")
 FIGS = os.path.join(ROOT, "results", "figs")
 
-REPO_URL = "https://github.com/zaki0415/lowlight-enhance"
+REPO_URL = "https://github.com/KinsenZhang/lowlight-enhance"
 
 STUDENT = {
     "课程": "图像处理",

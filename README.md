@@ -2,7 +2,7 @@
 
 东北大学 2026 年《图像处理》课程大作业（学号 20245630，张子腾）。
 
-仓库地址：<https://github.com/zaki0415/lowlight-enhance>　课程报告：[报告-张子腾-20245630.docx](报告-张子腾-20245630.docx)
+仓库地址：<https://github.com/KinsenZhang/lowlight-enhance>　课程报告：[报告-张子腾-20245630.docx](报告-张子腾-20245630.docx)
 
 纯 `numpy` + `Pillow` 实现，**不依赖 OpenCV、scipy 或深度学习框架**，所有滤波算子（盒式滤波、
 引导滤波、高斯模糊、SSIM、CLAHE）都是自己写的。960×600 的图单张约 0.5 s（笔记本 CPU，纯 float64 单线程）。
